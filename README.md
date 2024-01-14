@@ -8,9 +8,7 @@
 |------|------|
 |[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)|
 
-<a href="https://github.com/devCharlotte/github-stats">
- <img src="https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg" width=51% />
-</a>|
+<a href="https://github.com/devCharlotte/github-stats"><img src="https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg" width=50% /></a>|
 
 
 
