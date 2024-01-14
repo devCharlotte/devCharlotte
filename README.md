@@ -1,5 +1,5 @@
 
-![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20I'm%20Charlotte!&fontAlign=80&fontAlignY=40&color=gradient)
+![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=I'm%20Charlotte!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <!--
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=devCharlotte&include_all_commits=true&show_icons=true&theme=radical)
