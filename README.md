@@ -10,7 +10,7 @@
 |<a href="https://github.com/devCharlotte/github-stats">
  <img src="https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg" width=50% />
 </a>|<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=50%/>
 </a>|
 
 
