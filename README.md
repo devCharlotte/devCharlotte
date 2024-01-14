@@ -5,8 +5,11 @@
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=devCharlotte&include_all_commits=true&show_icons=true&theme=radical)
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)
+|------|------|
+|[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)
+|[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)|
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)
+
+
 
