@@ -10,5 +10,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={dev-charlotte}&postId={default})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dev-charlotte&postId=default)](https://github.com/loosie/github-readme-tistory-card)
 
