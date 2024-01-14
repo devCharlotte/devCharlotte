@@ -1,16 +1,14 @@
-### Hi there 👋
+
+![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20I'm%20Charlotte!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <!--
-**devCharlotte/devCharlotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=devCharlotte&include_all_commits=true&show_icons=true&theme=radical)
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={dev-charlotte}&postId={default})](https://github.com/loosie/github-readme-tistory-card)
+
