@@ -10,7 +10,7 @@
 
 |<a href="https://github.com/devCharlotte/github-stats">
  <img src="https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg" width=51% />
-</a>|
+</a>|!|
 
 
 
