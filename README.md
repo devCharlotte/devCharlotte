@@ -1,5 +1,5 @@
 <!-- temporarily disabled -->
-
+![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20I'm%20Charlotte!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30)
 
 ##### Language
 ![C++](http://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -54,7 +54,7 @@
 
 
 
-![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20I'm%20Charlotte!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30)
+
 
 |Github|BOJ|
 |------|------|
