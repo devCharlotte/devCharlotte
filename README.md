@@ -1,5 +1,6 @@
 temporarily disabled
 
+<!--
 ##### Language
 ![C++](http://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,7 +49,7 @@ temporarily disabled
 ##### ETC
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-
+-->
 
 
 
