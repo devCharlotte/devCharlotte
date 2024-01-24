@@ -48,10 +48,10 @@
 ##### Version Control
 ![Git](http://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](http://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ##### ETC
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 
 
