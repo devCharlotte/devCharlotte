@@ -1,6 +1,6 @@
-temporarily disabled
+<!-- temporarily disabled -->
 
-<!--
+
 ##### Language
 ![C++](http://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,11 +49,11 @@ temporarily disabled
 ##### ETC
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
--->
 
 
 
-<!--
+
+
 ![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20I'm%20Charlotte!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30)
 
 |Github|BOJ|
@@ -65,7 +65,7 @@ temporarily disabled
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=96%/>
 </a>|
 
--->
+
 
  <!--
      [GitHub stats](https://github-readme-stats.vercel.app/api?username=devCharlotte&include_all_commits=true&show_icons=true&theme=radical)
