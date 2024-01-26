@@ -62,12 +62,12 @@
 
 
 
-<!-- |Github|BOJ| -->
+<!-- |Github|BOJ| 
 |   |   |
 |------|------|
 |[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)|
 |[![GitHub Language stats](https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg)](https://github.com/devCharlotte/github-stats)|[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)](https://github.com/ashutosh00710/github-readme-activity-graph)|
-
+-->
 <!--
 |<a href="https://github.com/devCharlotte/github-stats">
  <img src="https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg" width=50% />
@@ -77,6 +77,22 @@
 </a>
 -->
 
+<!--|   |   |
+|------|------|
+|[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)|
+|[![GitHub Language stats](https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg)](https://github.com/devCharlotte/github-stats)|[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)](https://github.com/ashutosh00710/github-readme-activity-graph)|
+
+  <img src="https://github-readme-stats.vercel.app/api?username=devCharlotte&show_icons=true&theme=dark">]
+ -->
+
+
+|   |   |
+|------|------|
+|GitHub Language stats|[![GitHub Language stats](https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg)](https://github.com/devCharlotte/github-stats)|
+|GitHub Public Stats|[![GitHub Basic stats](https://github-readme-stats.vercel.app/api?username=devCharlotte&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats/)|
+|GitHub All Stats|[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)|
+|GitHub Contribution|[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)](https://github.com/ashutosh00710/github-readme-activity-graph)|
+|BOJ Profile|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)|
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevCharlotte&count_bg=%23900D0D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
