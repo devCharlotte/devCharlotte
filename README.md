@@ -67,9 +67,11 @@
 |[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)|
 |<a href="https://github.com/devCharlotte/github-stats">
  <img src="https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg" width=50% />
-</a>|<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=96%/>
 </a>|
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=96%/>
+</a>
+
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevCharlotte&count_bg=%23900D0D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
