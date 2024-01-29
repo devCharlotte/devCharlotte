@@ -8,9 +8,9 @@
 
 ##### Language
 ![C++](http://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/> 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3)
