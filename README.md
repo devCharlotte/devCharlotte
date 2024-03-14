@@ -1,11 +1,19 @@
+
+
+<!--
+
 <!-- temporarily disabled -->
 ![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30)
+
+
+-->
 
 <!-- 
 |##### Language|##### Database|##### Framework|##### IDE, Editor|##### Design|##### Operating System|##### Version Control|##### ETC|
 |------|------|------|------|------|------|------|------|
 -->
 
+<!--
 ##### Language
 ![C++](http://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,12 +23,15 @@
 ![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+-->
 <!--
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 -->
 
+<!--
 ##### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -41,6 +52,9 @@
 ##### Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+-->
+
 
 <!--
 ##### Operating System
