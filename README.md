@@ -4,7 +4,10 @@
 - **2024.03 - present** : SSL (System Software Lab)
 - **2022.09 - present** : working as a high school mathematics and science tutor at a high school academy.
 
-
+- **2022.03 - present** : SCC
+- **2023.03 - 2024.02** : init 4th
+- **2023.09 - present** : GDSC
+- 
 <!-- temporarily disabled 
 -->
 
