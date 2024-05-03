@@ -6,7 +6,7 @@
 - **2022.03 - 2026.02**   : Department of Computer Science and Engineering & Computer Security (Double Major, Bachelor’s Degree)
 - **2022.03 - present**   : Volunteering for coding education program for middle and high school students
 - **2022.09 - present**   : Working as a high school mathematics and science tutor at a high school academy
-- **2023.09 - present**   : Working as an assistant instructor for an AI education program for middle and high school students
+- **2023.09 - present**   : Working as an assistant instructor for middle and high school students education program
 - **2024.03 - present**   : Undergraduate Internship in SSL (System Software Lab)
 
 ## community
