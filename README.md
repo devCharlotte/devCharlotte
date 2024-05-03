@@ -1,8 +1,10 @@
 ![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) 
 
-- **2022.03 - 2026.02** : Department of Computer Science and Engineering & Computer Security (Double Major)
+- **2022.03 - 2026.02** : Department of Computer Science and Engineering & Computer Security (Double Major, Bachelor’s Degree)
 - **2024.03 - present** : SSL (System Software Lab)
-- **2022.09 - present** : working as a high school mathematics and science tutor at a high school academy. </br>
+- **2022.03 - present** : volunteering for coding education for middle and high school students
+- **2022.09 - present** : working as a high school mathematics and science tutor at a high school academy
+- **2023.09 - present** : working as an assistant instructor for an AI education program for middle and high school students
 
 - **2023.03 - present** : SCC 57, 58th
 - **2023.03 - 2024.02** : init 4th
