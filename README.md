@@ -1,6 +1,5 @@
 #### my profile
-<h5>2022.03 ~ 2026.02 </br> </h5>
-<h5>Department of Computer Science and Engineering & Computer Security (Double Major)</h5>
+- **2022.03-2026.02**: Department of Computer Science and Engineering & Computer Security (Double Major)
 
 
 <!-- temporarily disabled 
