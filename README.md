@@ -57,7 +57,7 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white)
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
+<!--
 |Github|BOJ| 
 |   |   |
 |------|------|
@@ -70,7 +70,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=96%/>
 </a>
-
+-->
 <!--
 |   |   |
 |------|------|
