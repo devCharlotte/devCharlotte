@@ -8,7 +8,7 @@
 - **2022.09 - present**   : Working as a high school mathematics and science tutor at a high school academy
 - **2023.09 - present**   : Working as an assistant instructor for middle and high school students education program
 - **2024.03 - present**   : Undergraduate Internship in SSL (System Software Lab)
-- **2024.03 - present**   : volunteering for a Korean language class taught by a professor of Western painting at an art college from China
+- **2024.03 - present**   : Volunteering for a Korean language class taught by a professor of Western painting at an art college from China
 
 ## community
 - **2023.03 - present** : SCC 57, 58th
