@@ -1,9 +1,10 @@
-#### my profile
-- **2022.03-2026.02**: Department of Computer Science and Engineering & Computer Security (Double Major)
+![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) 
+
+- **2022.03-2026.02** : Department of Computer Science and Engineering & Computer Security (Double Major)
 
 
 <!-- temporarily disabled 
-![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) -->
+-->
 
 <!-- 
 |##### Language|##### Database|##### Framework|##### IDE, Editor|##### Design|##### Operating System|##### Version Control|##### ETC|
