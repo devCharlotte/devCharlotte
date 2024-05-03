@@ -2,7 +2,7 @@
 
 <!-- 이전 깃허브에 작성했던 내용 재업데이트 -->
 
-## log
+## my log
 - **2022.03 - 2026.02**   : Bachelor’s Degree
   - Department of Computer Science and Engineering
   - Department of Cyber Security (Double Major)
