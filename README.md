@@ -42,7 +42,7 @@
 |------|------|------|------|------|------|------|------|
 -->
 
-
+## tech stack
 ##### Language
 ![C++](http://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
