@@ -15,7 +15,7 @@
 - **2023.03 - 2023.08** : Unicosa (computer academic club)
 - **2023.03 - 2024.02** : init 4th (computer academic club)
 - **2023.09 - present** : GDSC (Google Developer Student Clubs)
-- **2022 group study** : toeic, presentation, cpp
+- **2022 group study** : toeic, presentation, cpp, advanced cpp, web
 - **2023 group study** : ai basic course, android studio, backend, spring, data structure, java, algorithm
 - **2024 group study** : coding test, advanced Operating System, algorithm
 
