@@ -1,4 +1,5 @@
-
+### 2022.03 ~ 2026.02 
+Department of Computer Science and Engineering & Computer Security (Double Major)
 
 
 <!-- temporarily disabled 
