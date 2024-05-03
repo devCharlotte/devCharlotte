@@ -1,5 +1,5 @@
 #### my profile
-2022.03 ~ 2026.02 
+2022.03 ~ 2026.02 </br>
 Department of Computer Science and Engineering & Computer Security (Double Major)
 
 
