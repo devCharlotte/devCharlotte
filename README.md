@@ -9,7 +9,7 @@
 |------|------|------|------|------|------|------|------|
 -->
 
-<!--
+
 ##### Language
 ![C++](http://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,14 +20,10 @@
 ![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=CSS3)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
--->
-<!--
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
--->
 
-<!--
 ##### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -44,15 +40,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-
 ##### Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
--->
-
-
-<!--
 ##### Operating System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -65,39 +56,26 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
--->
-
-
-
-
-
-
-<!-- |Github|BOJ| 
+|Github|BOJ| 
 |   |   |
 |------|------|
 |[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)|
 |[![GitHub Language stats](https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg)](https://github.com/devCharlotte/github-stats)|[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)](https://github.com/ashutosh00710/github-readme-activity-graph)|
--->
 
-<!--
 |<a href="https://github.com/devCharlotte/github-stats">
  <img src="https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg" width=50% />
 </a>|
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=96%/>
 </a>
--->
 
-<!--|   |   |
+|   |   |
 |------|------|
 |[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)|
 |[![GitHub Language stats](https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg)](https://github.com/devCharlotte/github-stats)|[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)](https://github.com/ashutosh00710/github-readme-activity-graph)|
 
   <img src="https://github-readme-stats.vercel.app/api?username=devCharlotte&show_icons=true&theme=dark">]
- -->
 
-
-<!--
 |   |   |
 |------|------|
 |GitHub Language stats|[![GitHub Language stats](https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg)](https://github.com/devCharlotte/github-stats)|
@@ -105,11 +83,6 @@
 |GitHub All Stats|[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)|
 |GitHub Contribution|[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)](https://github.com/ashutosh00710/github-readme-activity-graph)|
 |BOJ Profile|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)|
-
--->
-
-
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevCharlotte&count_bg=%23900D0D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
