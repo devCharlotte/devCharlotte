@@ -2,9 +2,8 @@
 
 - **2022.03 - 2026.02** : Department of Computer Science and Engineering & Computer Security (Double Major)
 - **2024.03 - present** : SSL (System Software Lab)
-- **2022.09 - present** : working as a high school mathematics and science tutor at a high school academy.
+- **2022.09 - present** : working as a high school mathematics and science tutor at a high school academy. </br>
 
-</br>
 - **2023.03 - present** : SCC 57, 58th
 - **2023.03 - 2024.02** : init 4th
 - **2023.09 - present** : GDSC
