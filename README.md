@@ -13,10 +13,10 @@
 - **2024.03 - present**   : Volunteering to teach a Korean language class to a professor of Western painting at China's art university
 
 ## community
+- **2023.09 - present** : GDSC (Google Developer Student Clubs)
 - **2023.03 - present** : SCC 57, 58th (computer academic club)
 - **2023.03 - 2023.08** : Unicosa (computer academic club)
 - **2023.03 - 2024.02** : init 4th (computer academic club)
-- **2023.09 - present** : GDSC (Google Developer Student Clubs)
 
 ## group study
 - **2022**
