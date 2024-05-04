@@ -23,12 +23,12 @@
    - toeic
    - presentation
    - cpp / advanced cpp
-   - web
+   - web programming
 - **2023**
    - ai basic course
    - backend - spring
-   - android studio
-   - data structure
+   - android studio 
+   - data structure / advanced data structure
    - java
    - algorithm basic course
 - **2024**
