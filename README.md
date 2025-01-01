@@ -1,5 +1,5 @@
 ![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) 
-![contrib](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![contrib](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <!-- 이전 깃허브에 작성했던 내용 재업데이트 -->
 <!--
