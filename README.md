@@ -1,4 +1,12 @@
 ![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) 
+
+|GitHub Language stats|[![GitHub Language stats](https://raw.githubusercontent.com/devCharlotte/github-stats/output/generated/languages.svg)](https://github.com/devCharlotte/github-stats)|
+|GitHub Public Stats|[![GitHub Basic stats](https://github-readme-stats.vercel.app/api?username=devCharlotte&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats/)|
+|GitHub All Stats|[![GitHub Streak](https://streak-stats.demolab.com/?user=devCharlotte&theme=highcontrast)](https://git.io/streak-stats)|
+|GitHub Contribution|[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)](https://github.com/ashutosh00710/github-readme-activity-graph)|
+|BOJ Profile|[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)|
+
+
 <!-- ![contrib](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <!-- 이전 깃허브에 작성했던 내용 재업데이트 -->
