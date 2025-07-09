@@ -1,4 +1,10 @@
 ![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) 
+</br>
+- **2022.03 - 2025.08**   : Bachelor’s Degree
+  - Department of Computer Science
+  - Department of Convergence Security Engineering (Double Major)
+</br>
+
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)
 
