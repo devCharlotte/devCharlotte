@@ -1,15 +1,15 @@
 ![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) 
 
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)
 
 <!-- ![contrib](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <!-- 이전 깃허브에 작성했던 내용 재업데이트 -->
 <!--
 ## my log
-- **2022.03 - 2026.02**   : Bachelor’s Degree
-  - Department of Computer Science and Engineering
-  - Department of Cyber Security (Double Major)
+- **2022.03 - 2025.08**   : Bachelor’s Degree
+  - Department of Computer Science
+  - Department of Convergence Security Engineering (Double Major)
 - **2022.03 - present**   : Volunteering for coding education program for middle and high school students
 - **2022.09 - present**   : Working as a high school mathematics and science main instructor at a high school academy
 - **2023.09 - present**   : Working as an assistant instructor for middle and high school students education program
