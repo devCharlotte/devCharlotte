@@ -6,6 +6,8 @@
  
 - **2025.09 - 2027.02**   : Master's degree
   - Department of Computer Science (System Software)
+
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)](https://solved.ac/devcharlotte)
 </br>
 
 
