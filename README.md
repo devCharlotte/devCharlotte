@@ -3,10 +3,13 @@
 - **2022.03 - 2025.08**   : Bachelor’s Degree
   - Department of Computer Science
   - Department of Convergence Security Engineering (Double Major)
+ 
+- **2025.09 - 2027.02**   : Master's degree
+  - Department of Computer Science (System Software)
 </br>
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)
+<!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0) -->
 
 <!-- ![contrib](./profile-3d-contrib/profile-green-animate.svg) -->
 
