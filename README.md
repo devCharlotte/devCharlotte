@@ -1,11 +1,11 @@
 ![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) 
 </br>
 - **2022.03 - 2025.08**   : Bachelor’s Degree
-  - Department of Computer Science
+  - Department of Computer Science and Engineering
   - Department of Convergence Security Engineering (Double Major)
  
 - **2025.09 - 2027.02**   : Master's degree
-  - Department of Computer Science (System Software)
+  - Department of Computer Science and Engineering (System Software)
 
 </br></br>
 
