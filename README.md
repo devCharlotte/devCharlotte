@@ -6,7 +6,8 @@
  
 - **2025.09 - 2027.02**   : Master's degree
   - Department of Computer Science and Engineering (System Software)
-
+  - Research interests: OS kernel, File system, Memory management, and Storage.
+    
 </br></br>
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)
