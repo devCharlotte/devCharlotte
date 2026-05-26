@@ -8,11 +8,32 @@
   - Department of Computer Science and Engineering (System Software)
   - Research interests: OS kernel, File system, Memory management, and Storage
     
-</br></br>
+</br>
+<table>
+  <tr>
+    <td align="center" width="35%">
+      <img 
+        src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte" 
+        width="280"
+        alt="Solved.ac Profile"
+      />
+    </td>
+    <td align="center" width="65%">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D8&color=FFFFFF&point=8A87D8" 
+        width="520"
+        alt="Contribution Graph"
+      />
+    </td>
+  </tr>
+</table>
 
+<!-- 26-05-26 개행 수정
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)
 </br>
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0) 
+-->
+
 
 <!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0) -->
 
