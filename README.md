@@ -36,7 +36,7 @@
 
 
 <!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0) -->
-
+<!--  ![footer](https://capsule-render.vercel.app/api?type=waving&color=94D03A&height=215&section=footer)-->
 <!-- ![contrib](./profile-3d-contrib/profile-green-animate.svg) -->
 
 <!-- 이전 깃허브에 작성했던 내용 재업데이트 -->
