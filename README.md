@@ -12,7 +12,7 @@
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte)
 </br>
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0) 
 
 <!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0) -->
 
