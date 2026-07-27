@@ -4,7 +4,7 @@
   - Department of Computer Science and Engineering
   - Department of Convergence Security Engineering (Double Major)
  
-- **2025.09 - 2027.02**  (Early Graduation)   : Master's degree
+- **2025.09 - 2027.02**  (Early Graduation)   : Master's Degree
   - Department of Computer Science and Engineering (System Software)
   - Research interests: OS kernel, File system, Memory management, and Storage
     
