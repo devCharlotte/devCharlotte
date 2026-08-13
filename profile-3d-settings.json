@@ -1,0 +1,42 @@
+{
+  "type": "season",
+  "fileName": "profile-night-season.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#ffffff",
+  "strongColor": "#8A87D8",
+  "weakColor": "#6e7681",
+  "radarColor": "#8A87D8",
+  "growingAnimation": true,
+
+  "contribColors1": [
+    "#161b22",
+    "#6d4168",
+    "#965f8e",
+    "#c17bb6",
+    "#e7a6dc"
+  ],
+
+  "contribColors2": [
+    "#161b22",
+    "#315c3b",
+    "#448b52",
+    "#62b36d",
+    "#89d98d"
+  ],
+
+  "contribColors3": [
+    "#161b22",
+    "#765521",
+    "#a87527",
+    "#d59b31",
+    "#f0bd52"
+  ],
+
+  "contribColors4": [
+    "#161b22",
+    "#45515e",
+    "#657383",
+    "#8996a5",
+    "#b3bdc7"
+  ]
+}
