@@ -15,7 +15,7 @@
   <img
     align="middle"
     src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=0d1117&hide_border=true&line=8A87D8&color=FFFFFF&point=8A87D8"
-    width="46%"
+    width="33%"
     alt="Contribution Graph"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
