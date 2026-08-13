@@ -28,7 +28,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left" colspan="2">      
+    <td align="center" colspan="2">      
       <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%" alt="3D Contribution Graph" />    
     </td>
   </tr>
