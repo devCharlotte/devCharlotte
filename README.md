@@ -30,7 +30,6 @@
 <p align="center">
   <b>Preferred Languages</b>
   &nbsp;&nbsp;
-
   <img
     align="middle"
     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
@@ -44,7 +43,6 @@
     height="26"
     alt="C++"
   />
-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://solved.ac/devcharlotte">
