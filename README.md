@@ -10,43 +10,51 @@
     
 </br>
 
+
 <p align="center">
   <img
+    align="middle"
     src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=0d1117&hide_border=true&line=8A87D8&color=FFFFFF&point=8A87D8"
-    width="45%"
+    width="46%"
     alt="Contribution Graph"
   />
   &nbsp;&nbsp;&nbsp;
   <img
+    align="middle"
     src="./profile-3d-contrib/profile-night-rainbow.svg"
-    width="39%"
+    width="40%"
     alt="3D Contribution Graph"
   />
 </p>
-
 <p align="center">
   <b>Preferred Languages</b>
   &nbsp;&nbsp;
   <img
+    align="middle"
     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
-    height="25"
+    height="27"
     alt="C"
   />
   &nbsp;
   <img
+    align="middle"
     src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
-    height="25"
+    height="27"
     alt="C++"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://solved.ac/devcharlotte">
     <img
+      align="middle"
       src="https://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte"
-      width="160"
+      width="165"
       alt="Solved.ac Profile"
     />
   </a>
 </p>
+
+
+
 <!--
 <table>
   <tr>
