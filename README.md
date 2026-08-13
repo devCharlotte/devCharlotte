@@ -13,36 +13,35 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=0d1117&hide_border=true&line=8A87D8&color=FFFFFF&point=8A87D8"
-    width="92%"
+    width="47%"
     alt="Contribution Graph"
   />
-</p>
-<p align="center">
+  &nbsp;&nbsp;
   <img
     src="./profile-3d-contrib/profile-night-rainbow.svg"
-    width="68%"
+    width="42%"
     alt="3D Contribution Graph"
   />
 </p>
-
-<br/>
-
 <p align="center">
   <b>Preferred Languages</b>
   &nbsp;&nbsp;
   <img
     src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+    height="28"
     alt="C"
   />
   &nbsp;
   <img
     src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
+    height="28"
     alt="C++"
   />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://solved.ac/devcharlotte">
     <img
-      src="https://mazassumnida.wtf/api/mini/generate_badge?boj=devcharlotte"
+      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte"
+      width="180"
       alt="Solved.ac Profile"
     />
   </a>
