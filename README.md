@@ -28,6 +28,9 @@
     </td>
   </tr>
   <tr>
+    ![](./profile-3d-contrib/profile-night-rainbow-animate.svg)
+  </tr>
+  <tr>
     <td align="left" colspan="2">
       <b>Preferred Languages</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>  &nbsp &nbsp
