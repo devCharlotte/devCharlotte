@@ -21,7 +21,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     align="middle"
-    src="./profile-3d-contrib/profile-season-animate.svg"
+    src="./profile-3d-contrib/profile-night-view.svg"
     width="33%"
     alt="3D Contribution Graph"
   />
