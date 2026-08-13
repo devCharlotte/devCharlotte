@@ -12,22 +12,6 @@
 
 
 <p align="center">
-  <img
-    align="middle"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=0d1117&hide_border=true&line=8A87D8&color=FFFFFF&point=8A87D8"
-    width="46%"
-    alt="Contribution Graph"
-  />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    align="middle"
-    src="./profile-3d-contrib/profile-night-season.svg"
-    width="34%"
-    alt="3D Contribution Graph"
-  />
-</p>
-
-<p align="center">
   <img align="middle" src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=0d1117&hide_border=true&line=8A87D8&color=FFFFFF&point=8A87D8" width="46%" alt="Contribution Graph" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="middle" src="./profile-3d-contrib/profile-night-season.svg" width="34%" alt="3D Contribution Graph" />
