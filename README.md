@@ -22,7 +22,7 @@
   <img
     align="middle"
     src="./profile-3d-contrib/profile-night-season.svg"
-    width="33%"
+    width="55%"
     alt="3D Contribution Graph"
   />
 </p>
