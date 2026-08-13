@@ -11,22 +11,24 @@
 </br>
 
 
+<!-- GitHub Activity -->
 <p align="center">
   <img
     align="middle"
     src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=0d1117&hide_border=true&line=8A87D8&color=FFFFFF&point=8A87D8"
-    width="46%"
+    width="47%"
     alt="Contribution Graph"
   />
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img
     align="middle"
     src="./profile-3d-contrib/profile-night-season.svg"
-    width="38%"
+    width="41%"  
     alt="3D Contribution Graph"
-  />
+  /> <!-- 38 - 41 -->
 </p>
 
+<!-- Languages & BOJ -->
 <div align="center">
   <b>Preferred Languages</b>&nbsp;&nbsp;&nbsp;
   <img
@@ -46,9 +48,8 @@
     src="https://mazassumnida.wtf/api/v2/generate_badge?boj=devcharlotte"
     width="150"
     alt="Solved.ac Profile"
-  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <!-- 우측 공백 추가했는데 정렬이 잘 맞았으면 좋겠당 -->
 </div>
-
 
 
 
