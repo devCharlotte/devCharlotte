@@ -28,7 +28,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="left" colspan="2">      
       ![](/profile-3d-contrib/profile-night-rainbow.svg)
     </td>
   </tr>
