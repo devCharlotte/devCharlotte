@@ -23,16 +23,15 @@
     <td align="center" width="50%">
       <img
         src="./profile-3d-contrib/profile-night-rainbow.svg"
-        width="100%"
+        width="80%"
         alt="3D Contribution Graph"
       />
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="50%">
+    <td align="left" width="50%">
       <b>Preferred Languages</b>
-      <br/><br/>
       <img
         src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
         alt="C"
