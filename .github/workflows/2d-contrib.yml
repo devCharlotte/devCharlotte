@@ -1,0 +1,106 @@
+name: GitHub-Profile-2D-Contrib
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-2d-contrib
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate 2D Contribution Graph
+        env:
+          ACTIVITY_GRAPH_TOKEN: ${{ secrets.GITHUBPROFILE3DCONTRIB }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${ACTIVITY_GRAPH_TOKEN:-}" ]; then
+            echo "Missing repository secret: GITHUBPROFILE3DCONTRIB"
+            exit 1
+          fi
+
+          TMP_DIR="$(mktemp -d)"
+          trap 'rm -rf "$TMP_DIR"' EXIT
+
+          curl --fail --location \
+            --retry 5 \
+            --retry-delay 5 \
+            --retry-all-errors \
+            "https://codeload.github.com/Ashutosh00710/github-readme-activity-graph/tar.gz/0962e9461de815933d462e8b98c7ce566cada8fb" \
+            -o "$TMP_DIR/activity-graph.tar.gz"
+
+          tar -xzf "$TMP_DIR/activity-graph.tar.gz" -C "$TMP_DIR"
+          SRC_DIR="$(find "$TMP_DIR" -mindepth 1 -maxdepth 1 -type d -name 'github-readme-activity-graph-*' | head -n 1)"
+
+          cd "$SRC_DIR"
+          npm ci --no-audit --no-fund
+          npm run build
+
+          mkdir -p "$GITHUB_WORKSPACE/profile-contrib"
+
+          TOKEN="$ACTIVITY_GRAPH_TOKEN" \
+          OUTPUT_PATH="$GITHUB_WORKSPACE/profile-contrib/activity-graph.svg" \
+          node <<'NODE'
+          const fs = require('fs');
+          const { Handlers } = require('./dist/handlers');
+
+          const query = {
+            username: 'devCharlotte',
+            theme: 'react-dark',
+            bg_color: '0d1117',
+            hide_border: 'true',
+            line: '8A87D8',
+            color: 'FFFFFF',
+            point: '8A87D8'
+          };
+
+          let svg = '';
+          const res = {
+            setHeader() { return this; },
+            set() { return this; },
+            status() { return this; },
+            send(value) {
+              svg = String(value);
+              return this;
+            }
+          };
+
+          (async () => {
+            await new Handlers().getGraph({ query }, res);
+
+            if (
+              !svg.includes('<svg') ||
+              svg.includes('Something unexpected happened') ||
+              svg.includes("Can't fetch any contribution") ||
+              svg.includes('API rate limit exceeded')
+            ) {
+              throw new Error('The official renderer did not return a valid contribution graph.');
+            }
+
+            fs.writeFileSync(process.env.OUTPUT_PATH, svg, 'utf8');
+            console.log(`Wrote ${process.env.OUTPUT_PATH}`);
+          })().catch((error) => {
+            console.error(error);
+            process.exit(1);
+          });
+          NODE
+
+      - name: Commit & Push
+        run: |
+          git config user.name devCharlotte
+          git config user.email workjh77@gmail.com
+          git add profile-contrib/activity-graph.svg
+          if git commit -m "generated 2d contribution graph"; then
+            git push
+          fi
