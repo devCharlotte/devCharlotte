@@ -16,7 +16,7 @@
   <a href="https://github.com/devCharlotte">
   <img
     align="middle"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devCharlotte&theme=react-dark&bg_color=0d1117&hide_border=true&line=8A87D8&color=FFFFFF&point=8A87D8"
+    src="./profile-contrib/activity-graph.svg"
     width="47%"
     alt="Contribution Graph"
   />
