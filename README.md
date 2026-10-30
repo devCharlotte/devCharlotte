@@ -6,7 +6,7 @@
  
 - **2025.09 - 2027.02**  (Completed in 3 semesters)   : Master's Degree
   - Department of Computer Science and Engineering (System Software)
-  - Research interests: OS kernel, File system, Memory management, and Storage
+  - Research interests: OS kernel, Memory management (memory deduplication, tiered memory), Page cache, File systems, and Storage
     
 </br>
 
