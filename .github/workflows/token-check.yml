@@ -1,0 +1,16 @@
+name: token-check
+
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          TOKEN: ${{ secrets.GITHUBPROFILE3DCONTRIB }}
+        run: |
+          jq -n --arg q 'query($login: String!) { user(login: $login) { contributionsCollection { contributionCalendar { isHalloween totalContributions weeks { contributionDays { contributionCount contributionLevel date } } } commitContributionsByRepository(maxRepositories: 100) { repository { primaryLanguage { name color } } contributions { totalCount } } totalCommitContributions totalIssueContributions totalPullRequestContributions totalPullRequestReviewContributions totalRepositoryContributions } repositories(first: 100, ownerAffiliations: OWNER) { edges { cursor } nodes { forkCount stargazerCount } } } }' '{query: $q, variables: {login: "devCharlotte"}}' > body.json
+          curl -s -D headers.txt -H "Authorization: bearer $TOKEN" -d @body.json https://api.github.com/graphql > out.json
+          grep -i '^x-oauth-scopes\|^x-accepted-github-permissions\|^github-authentication-token-expiration\|^HTTP' headers.txt || true
+          jq '{message, errors: [.errors[]?.message], user_is_null: (.data.user == null)}' out.json
