@@ -1,8 +1,8 @@
 {
   "type": "season",
   "fileName": "profile-night-season.svg",
-  "backgroundColor": "#0d1117",
-  "foregroundColor": "#ffffff",
+  "backgroundColor": "#00000000",
+  "foregroundColor": "#7d8590",
   "strongColor": "#8A87D8",
   "weakColor": "#6e7681",
   "radarColor": "#8A87D8",

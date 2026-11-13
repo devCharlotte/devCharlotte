@@ -58,10 +58,10 @@ jobs:
           const query = {
             username: 'devCharlotte',
             theme: 'react-dark',
-            bg_color: '0d1117',
+            bg_color: '00000000',
             hide_border: 'true',
             line: '8A87D8',
-            color: 'FFFFFF',
+            color: '7d8590',
             point: '8A87D8'
           };
 
