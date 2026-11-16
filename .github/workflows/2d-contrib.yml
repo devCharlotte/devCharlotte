@@ -44,7 +44,7 @@ jobs:
           SRC_DIR="$(find "$TMP_DIR" -mindepth 1 -maxdepth 1 -type d -name 'github-readme-activity-graph-*' | head -n 1)"
 
           cd "$SRC_DIR"
-          npm ci --no-audit --no-fund
+          npm install --no-audit --no-fund
           npm run build
 
           mkdir -p "$GITHUB_WORKSPACE/profile-contrib"
