@@ -18,60 +18,60 @@ less memory per workload. Right: Motivation: Despite surging memory demand, subs
 </defs>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style>
 <text x="63" y="64" font-size="34" font-weight="700" fill="#7d8590" text-anchor="start">System Software for Efficient Computing</text>
-<text x="63" y="100" font-size="19" font-weight="400" fill="#7d8590" text-anchor="start">Rethinking the boundary between applications, OS, and hardware</text>
+<text x="63" y="100" font-size="21.8" font-weight="600" fill="#7d8590" text-anchor="start">Rethinking the boundary between applications, OS, and hardware</text>
 <text x="1336" y="64" font-size="34" font-weight="700" fill="#8A87D8" text-anchor="start">Memory-Efficient System Software</text>
 <line x1="63" y1="122" x2="2344" y2="122" stroke="#6e7681" stroke-width="2"/>
 <rect x="63" y="140" width="1159" height="110" rx="18" fill="#DB61A2" fill-opacity=".13" stroke="#DB61A2" stroke-opacity=".6" stroke-width="1.6"/>
 <text x="86" y="202" font-size="25" font-weight="700" fill="#7d8590" text-anchor="start">Applications</text>
-<ellipse cx="372" cy="160" rx="17" ry="6" fill="none" stroke="#7d8590" stroke-width="2.2"/><path d="M355 160 v30 a17 6 0 0 0 34 0 v-30" fill="none" stroke="#7d8590" stroke-width="2.2"/>
-<text x="372" y="232" font-size="18" font-weight="400" fill="#7d8590" text-anchor="middle">Database</text>
-<rect x="520" y="154" width="22" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><rect x="544" y="154" width="20" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><circle cx="554" cy="160" r="3" fill="none" stroke="#7d8590" stroke-width="1.6"/><rect x="520" y="168" width="22" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><rect x="544" y="168" width="20" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><circle cx="554" cy="174" r="3" fill="none" stroke="#7d8590" stroke-width="1.6"/><rect x="520" y="182" width="22" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><rect x="544" y="182" width="20" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><circle cx="554" cy="188" r="3" fill="none" stroke="#7d8590" stroke-width="1.6"/>
-<text x="542" y="232" font-size="18" font-weight="400" fill="#7d8590" text-anchor="middle">Key-value service</text>
-<path d="M712 155 C700 152 688 162 692 174 C688 186 700 196 712 193 C724 196 736 186 732 174 C736 162 724 152 712 155 Z" fill="none" stroke="#7d8590" stroke-width="2.2"/><path d="M712 155 V193 M700 168 H708 M716 180 H724 M702 183 H708" stroke="#7d8590" stroke-width="1.8"/><circle cx="699" cy="168" r="2.4" fill="#7d8590"/><circle cx="725" cy="180" r="2.4" fill="#7d8590"/><circle cx="701" cy="183" r="2.4" fill="#7d8590"/><circle cx="721" cy="165" r="2.4" fill="#7d8590"/>
-<text x="712" y="232" font-size="18" font-weight="400" fill="#7d8590" text-anchor="middle">AI inference</text>
+<ellipse cx="380" cy="160" rx="17" ry="6" fill="none" stroke="#7d8590" stroke-width="2.2"/><path d="M363 160 v30 a17 6 0 0 0 34 0 v-30" fill="none" stroke="#7d8590" stroke-width="2.2"/>
+<text x="380" y="232" font-size="20.7" font-weight="600" fill="#7d8590" text-anchor="middle">Database</text>
+<rect x="558" y="154" width="22" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><rect x="582" y="154" width="20" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><circle cx="592" cy="160" r="3" fill="none" stroke="#7d8590" stroke-width="1.6"/><rect x="558" y="168" width="22" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><rect x="582" y="168" width="20" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><circle cx="592" cy="174" r="3" fill="none" stroke="#7d8590" stroke-width="1.6"/><rect x="558" y="182" width="22" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><rect x="582" y="182" width="20" height="12" rx="1.5" fill="none" stroke="#7d8590" stroke-width="2"/><circle cx="592" cy="188" r="3" fill="none" stroke="#7d8590" stroke-width="1.6"/>
+<text x="580" y="232" font-size="20.7" font-weight="600" fill="#7d8590" text-anchor="middle">Key-value service</text>
+<path d="M780 155 C768 152 756 162 760 174 C756 186 768 196 780 193 C792 196 804 186 800 174 C804 162 792 152 780 155 Z" fill="none" stroke="#7d8590" stroke-width="2.2"/><path d="M780 155 V193 M768 168 H776 M784 180 H792 M770 183 H776" stroke="#7d8590" stroke-width="1.8"/><circle cx="767" cy="168" r="2.4" fill="#7d8590"/><circle cx="793" cy="180" r="2.4" fill="#7d8590"/><circle cx="769" cy="183" r="2.4" fill="#7d8590"/><circle cx="789" cy="165" r="2.4" fill="#7d8590"/>
+<text x="780" y="232" font-size="20.7" font-weight="600" fill="#7d8590" text-anchor="middle">AI inference</text>
 <rect x="63" y="268" width="1159" height="52" rx="16" fill="#7d8590" fill-opacity=".06" stroke="#6e7681" stroke-opacity=".6"/>
 <text x="86" y="302" font-size="23" font-weight="700" fill="#7d8590" text-anchor="start">Runtime &amp; libraries</text>
 <line x1="63" y1="338" x2="1222" y2="338" stroke="#6e7681" stroke-width="2.6" stroke-dasharray="1 7" stroke-linecap="round"/>
 <rect x="63" y="354" width="1159" height="182" rx="18" fill="#8A87D8" fill-opacity=".13" stroke="#8A87D8" stroke-opacity=".6" stroke-width="1.6"/>
 <text x="86" y="388" font-size="25" font-weight="700" fill="#7d8590" text-anchor="start">Operating system</text>
 <rect x="88" y="404" width="258" height="116" rx="14" fill="#7d8590" fill-opacity=".10"/>
-<text x="217.0" y="469.0" font-size="21" font-weight="600" fill="#7d8590" text-anchor="middle">CPU</text>
+<text x="217.0" y="469.0" font-size="24.1" font-weight="600" fill="#7d8590" text-anchor="middle">CPU</text>
 <rect x="372" y="404" width="260" height="116" rx="14" fill="#7d8590" fill-opacity=".10"/>
-<text x="502.0" y="455.0" font-size="21" font-weight="600" fill="#7d8590" text-anchor="middle">Memory</text>
-<text x="502.0" y="483.0" font-size="21" font-weight="600" fill="#7d8590" text-anchor="middle">management</text>
+<text x="502.0" y="455.0" font-size="24.1" font-weight="600" fill="#7d8590" text-anchor="middle">Memory</text>
+<text x="502.0" y="483.0" font-size="24.1" font-weight="600" fill="#7d8590" text-anchor="middle">management</text>
 <rect x="658" y="404" width="539" height="116" rx="14" fill="#7d8590" fill-opacity=".10"/>
-<text x="927.5" y="455.0" font-size="21" font-weight="600" fill="#7d8590" text-anchor="middle">I/O stacks</text>
-<text x="927.5" y="483.0" font-size="18" font-weight="600" fill="#7d8590" text-anchor="middle">(network / storage)</text>
+<text x="927.5" y="455.0" font-size="24.1" font-weight="600" fill="#7d8590" text-anchor="middle">I/O stacks</text>
+<text x="927.5" y="483.0" font-size="20.7" font-weight="600" fill="#7d8590" text-anchor="middle">(network / storage)</text>
 <rect x="63" y="600" width="1159" height="140" rx="18" fill="#4FA3E0" fill-opacity=".13" stroke="#4FA3E0" stroke-opacity=".6" stroke-width="1.6"/>
 <text x="86" y="634" font-size="25" font-weight="700" fill="#7d8590" text-anchor="start">Hardware</text>
 <rect x="200.0" y="660.0" width="36.0" height="36.0" rx="3" fill="none" stroke="#7d8590" stroke-width="2.2"/><rect x="209.9" y="669.9" width="16.2" height="16.2" fill="none" stroke="#7d8590" stroke-width="1.8"/><line x1="203.6" y1="653.0" x2="203.6" y2="660.0" stroke="#7d8590" stroke-width="2"/><line x1="203.6" y1="696.0" x2="203.6" y2="703.0" stroke="#7d8590" stroke-width="2"/><line x1="193.0" y1="663.6" x2="200.0" y2="663.6" stroke="#7d8590" stroke-width="2"/><line x1="236.0" y1="663.6" x2="243.0" y2="663.6" stroke="#7d8590" stroke-width="2"/><line x1="210.8" y1="653.0" x2="210.8" y2="660.0" stroke="#7d8590" stroke-width="2"/><line x1="210.8" y1="696.0" x2="210.8" y2="703.0" stroke="#7d8590" stroke-width="2"/><line x1="193.0" y1="670.8" x2="200.0" y2="670.8" stroke="#7d8590" stroke-width="2"/><line x1="236.0" y1="670.8" x2="243.0" y2="670.8" stroke="#7d8590" stroke-width="2"/><line x1="218.0" y1="653.0" x2="218.0" y2="660.0" stroke="#7d8590" stroke-width="2"/><line x1="218.0" y1="696.0" x2="218.0" y2="703.0" stroke="#7d8590" stroke-width="2"/><line x1="193.0" y1="678.0" x2="200.0" y2="678.0" stroke="#7d8590" stroke-width="2"/><line x1="236.0" y1="678.0" x2="243.0" y2="678.0" stroke="#7d8590" stroke-width="2"/><line x1="225.2" y1="653.0" x2="225.2" y2="660.0" stroke="#7d8590" stroke-width="2"/><line x1="225.2" y1="696.0" x2="225.2" y2="703.0" stroke="#7d8590" stroke-width="2"/><line x1="193.0" y1="685.2" x2="200.0" y2="685.2" stroke="#7d8590" stroke-width="2"/><line x1="236.0" y1="685.2" x2="243.0" y2="685.2" stroke="#7d8590" stroke-width="2"/><line x1="232.4" y1="653.0" x2="232.4" y2="660.0" stroke="#7d8590" stroke-width="2"/><line x1="232.4" y1="696.0" x2="232.4" y2="703.0" stroke="#7d8590" stroke-width="2"/><line x1="193.0" y1="692.4" x2="200.0" y2="692.4" stroke="#7d8590" stroke-width="2"/><line x1="236.0" y1="692.4" x2="243.0" y2="692.4" stroke="#7d8590" stroke-width="2"/>
-<text x="218" y="726" font-size="19" font-weight="700" fill="#7d8590" text-anchor="middle">CPU</text>
+<text x="218" y="726" font-size="21.8" font-weight="700" fill="#7d8590" text-anchor="middle">CPU</text>
 <rect x="474.0" y="665.0" width="56.0" height="26.0" rx="2" fill="none" stroke="#7d8590" stroke-width="2.2"/><rect x="479.0" y="670.0" width="9.0" height="16.0" fill="#7d8590"/><rect x="491.5" y="670.0" width="9.0" height="16.0" fill="#7d8590"/><rect x="504.0" y="670.0" width="9.0" height="16.0" fill="#7d8590"/><rect x="516.5" y="670.0" width="9.0" height="16.0" fill="#7d8590"/><line x1="479.0" y1="691.0" x2="479.0" y2="697.0" stroke="#7d8590" stroke-width="1.6"/><line x1="485.5" y1="691.0" x2="485.5" y2="697.0" stroke="#7d8590" stroke-width="1.6"/><line x1="492.0" y1="691.0" x2="492.0" y2="697.0" stroke="#7d8590" stroke-width="1.6"/><line x1="498.5" y1="691.0" x2="498.5" y2="697.0" stroke="#7d8590" stroke-width="1.6"/><line x1="505.0" y1="691.0" x2="505.0" y2="697.0" stroke="#7d8590" stroke-width="1.6"/><line x1="511.5" y1="691.0" x2="511.5" y2="697.0" stroke="#7d8590" stroke-width="1.6"/><line x1="518.0" y1="691.0" x2="518.0" y2="697.0" stroke="#7d8590" stroke-width="1.6"/><line x1="524.5" y1="691.0" x2="524.5" y2="697.0" stroke="#7d8590" stroke-width="1.6"/>
-<text x="502" y="726" font-size="19" font-weight="700" fill="#7d8590" text-anchor="middle">DRAM</text>
+<text x="502" y="726" font-size="21.8" font-weight="700" fill="#7d8590" text-anchor="middle">DRAM</text>
 <rect x="762" y="658" width="52" height="40" rx="5" fill="none" stroke="#7d8590" stroke-width="2.4"/><rect x="772" y="669" width="32" height="12" fill="#7d8590"/><line x1="772" y1="688" x2="804" y2="688" stroke="#7d8590" stroke-width="2"/>
-<text x="788" y="726" font-size="19" font-weight="700" fill="#7d8590" text-anchor="middle">SSD</text>
+<text x="788" y="726" font-size="21.8" font-weight="700" fill="#7d8590" text-anchor="middle">SSD</text>
 <path d="M1050 664 H1082 L1096 678 L1082 692 H1050 Z" fill="none" stroke="#7d8590" stroke-width="2.2"/><rect x="1058" y="671" width="18" height="12" fill="none" stroke="#7d8590" stroke-width="1.8"/>
-<text x="1072" y="726" font-size="19" font-weight="700" fill="#7d8590" text-anchor="middle">NIC</text>
+<text x="1072" y="726" font-size="21.8" font-weight="700" fill="#7d8590" text-anchor="middle">NIC</text>
 <rect x="358" y="278" width="288" height="456" rx="18" fill="none" stroke="#8A87D8" stroke-width="3.5" stroke-dasharray="10 6"/>
-<rect x="50" y="546" width="350" height="46" rx="23" fill="#8A87D8" fill-opacity=".16" stroke="#8A87D8" stroke-width="2.4"/>
-<text x="225" y="576" font-size="21" font-weight="700" fill="#8A87D8" text-anchor="middle">Memory-efficient software</text>
+<rect x="30" y="546" width="400" height="46" rx="23" fill="#8A87D8" fill-opacity=".16" stroke="#8A87D8" stroke-width="2.4"/>
+<text x="230" y="577" font-size="23.0" font-weight="700" fill="#8A87D8" text-anchor="middle">Memory-efficient software</text>
 <rect x="63" y="758" width="1159" height="96" rx="18" fill="#7d8590" fill-opacity=".06" stroke="#6e7681" stroke-opacity=".6" stroke-width="1.5"/>
 <text x="86" y="816" font-size="23" font-weight="700" fill="#7d8590" text-anchor="start">Outcomes</text>
 <rect x="300" y="810" width="7" height="14" fill="none" stroke="#7d8590" stroke-width="1.8"/><rect x="311" y="802" width="7" height="22" fill="none" stroke="#7d8590" stroke-width="1.8"/><rect x="322" y="794" width="7" height="30" fill="none" stroke="#7d8590" stroke-width="1.8"/><path d="M300 802 L311 796 L322 790 L332 784" fill="none" stroke="#7d8590" stroke-width="1.8"/>
-<text x="352" y="802" font-size="19" font-weight="400" fill="#7d8590" text-anchor="start">Higher application</text>
-<text x="352" y="826" font-size="19" font-weight="400" fill="#7d8590" text-anchor="start">performance</text>
+<text x="352" y="802" font-size="21.8" font-weight="600" fill="#7d8590" text-anchor="start">Higher application</text>
+<text x="352" y="826" font-size="21.8" font-weight="600" fill="#7d8590" text-anchor="start">performance</text>
 <rect x="627.0" y="796.25" width="42.0" height="19.5" rx="2" fill="none" stroke="#7d8590" stroke-width="2.2"/><rect x="630.75" y="800.0" width="6.75" height="12.0" fill="#7d8590"/><rect x="640.125" y="800.0" width="6.75" height="12.0" fill="#7d8590"/><rect x="649.5" y="800.0" width="6.75" height="12.0" fill="#7d8590"/><rect x="658.875" y="800.0" width="6.75" height="12.0" fill="#7d8590"/><line x1="630.75" y1="815.75" x2="630.75" y2="820.25" stroke="#7d8590" stroke-width="1.6"/><line x1="635.625" y1="815.75" x2="635.625" y2="820.25" stroke="#7d8590" stroke-width="1.6"/><line x1="640.5" y1="815.75" x2="640.5" y2="820.25" stroke="#7d8590" stroke-width="1.6"/><line x1="645.375" y1="815.75" x2="645.375" y2="820.25" stroke="#7d8590" stroke-width="1.6"/><line x1="650.25" y1="815.75" x2="650.25" y2="820.25" stroke="#7d8590" stroke-width="1.6"/><line x1="655.125" y1="815.75" x2="655.125" y2="820.25" stroke="#7d8590" stroke-width="1.6"/><line x1="660.0" y1="815.75" x2="660.0" y2="820.25" stroke="#7d8590" stroke-width="1.6"/><line x1="664.875" y1="815.75" x2="664.875" y2="820.25" stroke="#7d8590" stroke-width="1.6"/>
-<text x="682" y="802" font-size="19" font-weight="400" fill="#7d8590" text-anchor="start">Less memory</text>
-<text x="682" y="826" font-size="19" font-weight="400" fill="#7d8590" text-anchor="start">per workload</text>
-<text x="1336" y="236.0" font-size="24" font-weight="700" fill="#8A87D8" text-anchor="start">Motivation</text>
-<text x="1336" y="276.0" font-size="22" font-weight="500" fill="#7d8590" text-anchor="start">Despite surging memory demand, substantial capacity is wasted across the</text>
-<text x="1336" y="308.0" font-size="22" font-weight="500" fill="#7d8590" text-anchor="start">system stack.</text>
+<text x="682" y="802" font-size="21.8" font-weight="600" fill="#7d8590" text-anchor="start">Less memory</text>
+<text x="682" y="826" font-size="21.8" font-weight="600" fill="#7d8590" text-anchor="start">per workload</text>
+<text x="1336" y="230.0" font-size="27" font-weight="700" fill="#8A87D8" text-anchor="start">Motivation</text>
+<text x="1336" y="276.0" font-size="25.3" font-weight="600" fill="#7d8590" text-anchor="start">Despite surging memory demand, substantial capacity is wasted</text>
+<text x="1336" y="312.0" font-size="25.3" font-weight="600" fill="#7d8590" text-anchor="start">across the system stack.</text>
 <line x1="1336" y1="378.0" x2="2344" y2="378.0" stroke="#6e7681" stroke-width="1.5"/>
-<text x="1336" y="474.0" font-size="24" font-weight="700" fill="#8A87D8" text-anchor="start">Goal</text>
-<text x="1336" y="514.0" font-size="22" font-weight="500" fill="#7d8590" text-anchor="start">Detect and reclaim wasted memory without degrading application</text>
-<text x="1336" y="546.0" font-size="22" font-weight="500" fill="#7d8590" text-anchor="start">performance.</text>
+<text x="1336" y="468.0" font-size="27" font-weight="700" fill="#8A87D8" text-anchor="start">Goal</text>
+<text x="1336" y="514.0" font-size="25.3" font-weight="600" fill="#7d8590" text-anchor="start">Detect and reclaim wasted memory without degrading application</text>
+<text x="1336" y="550.0" font-size="25.3" font-weight="600" fill="#7d8590" text-anchor="start">performance.</text>
 <line x1="1336" y1="616.0" x2="2344" y2="616.0" stroke="#6e7681" stroke-width="1.5"/>
-<text x="1336" y="712.0" font-size="24" font-weight="700" fill="#8A87D8" text-anchor="start">How</text>
-<text x="1336" y="752.0" font-size="22" font-weight="500" fill="#7d8590" text-anchor="start">Characterize memory waste and redesign OS mechanisms for low-overhead</text>
-<text x="1336" y="784.0" font-size="22" font-weight="500" fill="#7d8590" text-anchor="start">reclamation and efficient memory utilization.</text>
+<text x="1336" y="706.0" font-size="27" font-weight="700" fill="#8A87D8" text-anchor="start">How</text>
+<text x="1336" y="752.0" font-size="25.3" font-weight="600" fill="#7d8590" text-anchor="start">Characterize memory waste and redesign OS mechanisms for</text>
+<text x="1336" y="788.0" font-size="25.3" font-weight="600" fill="#7d8590" text-anchor="start">low-overhead reclamation and efficient memory utilization.</text>
 </svg>
