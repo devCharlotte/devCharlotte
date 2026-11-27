@@ -1,4 +1,11 @@
-![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30) 
+<!-- 26-11-27 헤더 폭을 본문 폭에 맞춤
+![wavingHeader](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30)
+-->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20%20World!&fontAlign=80&fontAlignY=40&color=gradient&fontSize=30"
+  width="100%"
+  alt="wavingHeader"
+/>
 </br>
 - **2022.03 - 2025.08**  (Completed in 7 semesters)   : Bachelor’s Degree
   - Department of Computer Science and Engineering
@@ -10,6 +17,15 @@
     
 </br>
 
+
+<!-- Research -->
+<p align="center">
+  <img
+    src="./profile-research/research.svg"
+    width="88%"
+    alt="Memory-Efficient System Software"
+  />
+</p>
 
 <!-- GitHub Activity -->
 <p align="center">
